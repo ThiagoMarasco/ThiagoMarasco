@@ -11,12 +11,12 @@
  
   <hr>
   <a href="https://thiagomarasco.github.io/portifolio/">
-  <img src="https://skillicons.dev/icons?i=py,java,mysql,js,html,css"> </img>
+  <img alt="Linguaguens" src="https://skillicons.dev/icons?i=py,java,mysql,js,html,css"> </img>
   </a>
   <a href="https://www.linkedin.com/in/thiago-marasco">
-  <img src="https://skillicons.dev/icons?i=linkedin"> </img>
+  <img alt="Linkedin Thiago" src="https://skillicons.dev/icons?i=linkedin"> </img>
   </a>
-  <img  height =50 align="right"
+  <img  height =50 align="right" alt="GATO!"
 src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"> </img>
 <hr>
 </div>
