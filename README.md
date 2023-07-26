@@ -2,8 +2,8 @@
 
 <div>
 <a href="https://thiagomarasco.github.io/portifolio/">
-<img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=ThiagoMarasco&show_icons=true&theme=radical"></img>
-<img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMarasco&layout=compact&theme=radical"> </img>
+<img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=ThiagoMarasco&show_icons=true&theme=radical"></img>
+<img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMarasco&layout=compact&theme=radical"> </img>
 </a>
 </div>
 
