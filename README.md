@@ -11,7 +11,7 @@
  
   <hr>
   <a href="https://thiagomarasco.github.io/portifolio/">
-  <img alt="Linguaguens" src="https://skillicons.dev/icons?i=py,java,mysql,js,html,css"> </img>
+  <img alt="Linguaguens" src="https://skillicons.dev/icons?i=py,java,mysql,arch,aws,azure,gcp,cs,django,dotnet,docker,git,godot,jenkins,selenium,bootstrap,js,html,css"> </img>
   </a>
   <a href="https://www.linkedin.com/in/thiago-marasco">
   <img alt="Linkedin Thiago" src="https://skillicons.dev/icons?i=linkedin"> </img>
