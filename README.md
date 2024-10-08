@@ -17,7 +17,7 @@
   <img alt="Linkedin Thiago" src="https://skillicons.dev/icons?i=linkedin"> </img>
   </a>
   <img  height =50 align="right" alt="GATO!"
-src="https://gifer.com/embed/KHO"> </img>
+src="https://i.gifer.com/KHO.gif"> </img>
 <hr>
 </div>
 
